@@ -1,0 +1,29 @@
+@CHARSET "EUC-KR";
+
+.comment-ul {
+	height:15px;
+}
+
+.comment-li {
+	display:inline;
+}
+
+#inputComment ul li span {
+	vertical_align:top;
+}
+
+.wide {
+	width:60%;
+}
+
+.wide textarea {
+	width:inherit;
+}
+
+.img.button {
+	width:36px;
+}
+
+.img.button.small {
+	width:13px;
+}
