@@ -1,6 +1,6 @@
 # catchLuck
 ## 거래 사이트
-* java6
-* spring3.x
-* apache-tomcat6
+* java 7
+* spring 3.x
+* apache-tomcat 7
 * MS-SQL
