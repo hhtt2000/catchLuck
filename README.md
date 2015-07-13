@@ -7,6 +7,6 @@
 * Spring 3.x
 * Apache-tomcat 7
 * MS-SQL
-* Eclipse SVN
+* Eclipse Subversion
 
 
