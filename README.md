@@ -8,6 +8,6 @@
 * MyBatis
 * Apache-tomcat 7
 * MS-SQL
-* Eclipse Subversion
+* SVN
 
 
