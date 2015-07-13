@@ -7,8 +7,6 @@
 * Spring 3.x
 * Apache-tomcat 7
 * MS-SQL
+* Eclipse SVN
 
-#####   개발툴
-* Eclipse
-* Oracle SQL developer
 
