@@ -10,5 +10,5 @@
 
 #####   개발툴
 * eclipse
-* ORACLE SQL developer
+* Oracle SQL developer
 
