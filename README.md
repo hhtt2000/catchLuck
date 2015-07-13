@@ -3,12 +3,12 @@
 
 
 #####   개발환경
-* java 7
-* spring 3.x
-* apache-tomcat 7
+* Java 7
+* Spring 3.x
+* Apache-tomcat 7
 * MS-SQL
 
 #####   개발툴
-* eclipse
+* Eclipse
 * Oracle SQL developer
 
