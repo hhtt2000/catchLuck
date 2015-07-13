@@ -5,6 +5,7 @@
 #####   개발환경
 * Java 7
 * Spring 3.x
+* MyBatis
 * Apache-tomcat 7
 * MS-SQL
 * Eclipse Subversion
